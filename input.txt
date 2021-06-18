@@ -1,0 +1,4 @@
+3
+{"Type":"get","Payload":"id00"}
+{"Type":"delete","Payload":"id00"}
+{"Type":"post","Payload":"{id:sq,name:saq,area:asw}"}
